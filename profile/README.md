@@ -1,54 +1,37 @@
 # PhilaCon Valley
 
-Philadelphia's tech community that centers Black, Brown, LGBTQIA+, and underrepresented folks in tech. By us, for us.
+Philly's tech community, by us, for us. We center Black, Brown, LGBTQIA+, and underrepresented technologists, and the door is open to anyone who's curious, whether you've been shipping code for years or you're opening a text editor for the first time tonight.
 
-We run free and low-cost workshops, build open-source tools, and host events that connect builders across the city. Everything we build at an event stays here, open, so you can take it home and remix it.
+Curiosity over credentials. At our labs you build something real in one evening, next to people who are figuring it out with you, and the code stays here in the open so you can take it home and keep going.
 
-**Website:** [philaconvalley.com](https://www.philaconvalley.com) · **Discord:** [join us](https://discord.gg/fxUfeSbFZM)
+**Website:** [philaconvalley.com](https://www.philaconvalley.com) · **Discord:** [come hang out](https://discord.gg/5haHYh5xcx)
 
 ## Start here
 
-New to open source? Start with one of these.
-
-1. Read the [Community Handbook](https://github.com/philaconvalley/community-handbook). It explains how we work and what we value.
-2. Pick an issue labeled [`good first issue`](https://github.com/search?q=org%3Aphilaconvalley+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues). Each one is small and has clear steps.
-3. Read the `CONTRIBUTING.md` file in that repo before you open a pull request.
-4. Ask questions in [Discord](https://discord.gg/fxUfeSbFZM). Nobody expects you to know everything.
+If this is your first time contributing to anything, read the [Community Handbook](https://github.com/philaconvalley/community-handbook) to see how we work, then look for an issue labeled [`good first issue`](https://github.com/search?q=org%3Aphilaconvalley+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues). Every repo has a `CONTRIBUTING.md` that walks you through your first pull request. Stuck? Ask in Discord. Nobody here expects you to know everything already.
 
 ## The PATCH series
 
-PATCH is our numbered workshop series. Each one teaches a creative-tech skill in one night, and each one leaves behind code you can keep. Find them all with the [`patch-series`](https://github.com/search?q=topic%3Apatch-series+org%3Aphilaconvalley&type=repositories) topic.
+PATCH is our build night: one theme, one evening, hands-on the whole time. When a lab produces code, it lands here with the [`patch-series`](https://github.com/search?q=topic%3Apatch-series+org%3Aphilaconvalley&type=repositories) topic, so you can pick up where the room left off.
 
-| Workshop | What you build | Repo |
+| Lab | What you build | Code |
 |---|---|---|
-| PATCH 001: Make sound visible | A browser audio visualizer for DJs | [djVisualizer](https://github.com/philaconvalley/djVisualizer) · [live](https://dj-visualizer.netlify.app) |
-| PATCH 003: Projection Mapping Lab | A p5.js sketch you warp onto any surface | [projectionMapper](https://github.com/philaconvalley/projectionMapper) · [live](https://philaconvalley.github.io/projectionMapper/) |
+| PATCH 001: Make sound visible | Visuals that react to live music | [djVisualizer](https://github.com/philaconvalley/djVisualizer) · [try it](https://dj-visualizer.netlify.app) |
+| PATCH 002: NFC Lab | Your own custom NFC tag | No code repo. This one was hands-on hardware. |
+| PATCH 003: Projection Mapping Lab | A p5.js sketch you warp onto any wall or object | [projectionMapper](https://github.com/philaconvalley/projectionMapper) · [try it](https://philaconvalley.github.io/projectionMapper/) |
 
-Want your own copy of a PATCH starter? Open the repo and click **Use this template**.
+Want your own copy of a starter? Open the repo and click **Use this template**.
 
-## Projects
+## What else we're building
 
-**Community**
+**For the community:** [website](https://github.com/philaconvalley/website) is our public site, and anyone can help build it. [community-handbook](https://github.com/philaconvalley/community-handbook) is where our values and governance live, written in the open.
 
-- [website](https://github.com/philaconvalley/website): our public site, built in the open with the community. Astro, Tailwind, and Alpine.js.
-- [community-handbook](https://github.com/philaconvalley/community-handbook): our philosophy, values, principles, and governance.
+**Creative tech:** [locked-groove](https://github.com/philaconvalley/locked-groove) is an early-stage engine for internet radio that never stops, where every listener hears the same second of the set and the visuals render live in their browser.
 
-**Creative tech**
+**Tools we use at events:** [door-checkin](https://github.com/philaconvalley/door-checkin) is a doorbell for locked venue doors, so a guest who taps the NFC tag outside knows someone is on the way down. [discord-task-bot](https://github.com/philaconvalley/discord-task-bot) handles our task reminders in Discord, and [owlhacks-timer](https://github.com/philaconvalley/owlhacks-timer) is the demo countdown we built live at OwlHacks '26.
 
-- [djVisualizer](https://github.com/philaconvalley/djVisualizer): a real-time audio visualizer and effects processor, built on the Web Audio API.
-- [projectionMapper](https://github.com/philaconvalley/projectionMapper): a projection mapping starter template in p5.js.
-- [locked-groove](https://github.com/philaconvalley/locked-groove): an engine for continuous, visual internet radio. Every listener hears the same second, and visuals render live in the browser. Pre-alpha.
-
-**Event tools**
-
-- [door-checkin](https://github.com/philaconvalley/door-checkin): a doorbell for locked venue doors. A guest taps an NFC tag, and the team gets a Discord alert.
-- [discord-task-bot](https://github.com/philaconvalley/discord-task-bot): a Discord bot for task assignments, due-date reminders, and scheduled events.
-- [owlhacks-timer](https://github.com/philaconvalley/owlhacks-timer): a countdown timer for hackathon demos, built live at OwlHacks '26.
-
-**Experiments**
-
-- [shoppingDebateChromeExtension](https://github.com/philaconvalley/shoppingDebateChromeExtension): a Chrome extension where three AI personalities debate a purchase before you check out.
+**Experiments:** [shoppingDebateChromeExtension](https://github.com/philaconvalley/shoppingDebateChromeExtension) has three AI personalities argue about your cart before you check out.
 
 ---
 
-Based in Philadelphia, PA.
+Made in Philadelphia.
