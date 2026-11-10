@@ -4,7 +4,7 @@ Philly's tech community, by us, for us. We center Black, Brown, LGBTQIA+, and un
 
 Curiosity over credentials. At our labs you build something real in one evening, next to people who are figuring it out with you, and the code stays here in the open so you can take it home and keep going.
 
-**Website:** [philaconvalley.com](https://www.philaconvalley.com) · **Discord:** [come hang out](https://discord.gg/5haHYh5xcx)
+**Website:** [philaconvalley.com](https://www.philaconvalley.com) · **Discord:** [come hang out](https://philaconvalley.com/discord)
 
 ## Start here
 

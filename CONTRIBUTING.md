@@ -8,7 +8,7 @@ You do not need to be an expert. A typo fix, a clearer sentence, or a good bug r
 ## Ways to help
 
 - **Not on GitHub? Say it in Discord.** Most of the community lives in
-  [Discord](https://discord.gg/5haHYh5xcx). Tell us there, and a team member turns it into an issue.
+  [Discord](https://philaconvalley.com/discord). Tell us there, and a team member turns it into an issue.
 - **Report a bug.** Open an issue. Say what you did, what you expected, and what happened.
 - **Suggest an idea.** Open an issue before you write a lot of code. We can agree on the plan first,
   so your work does not go to waste.
